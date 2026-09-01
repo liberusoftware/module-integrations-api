@@ -13,4 +13,3 @@ final class IntegrationsApiServiceProvider extends ServiceProvider
         $this->loadRoutesFrom(__DIR__.'/../routes/api.php');
     }
 }
-
